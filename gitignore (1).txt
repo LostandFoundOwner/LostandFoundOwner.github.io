@@ -1,2 +1,0 @@
-
-gfx/flags/.DS_Store
